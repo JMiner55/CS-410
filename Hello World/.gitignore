@@ -1,6 +1,5 @@
 *.jar
 *.class
 *.bak
-/bin/
 bin/
 dist/
